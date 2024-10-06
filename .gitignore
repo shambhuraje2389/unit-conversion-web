@@ -20,3 +20,12 @@ UnitConversionApplication/.vs/UnitConversionApplication/v17/.suo
 /UnitConversionApplication/UnitConversion.Services/obj
 /UnitConversionApplication/unitconversion.ui/obj
 /UnitConversionApplication/UnitConversion.Models/bin
+*.manifest
+/UnitConversionApplication/UnitConversion.Test/bin
+UnitConversionApplication/.vs/UnitConversionApplication/FileContentIndex/5c6f824b-34ab-429f-affc-b200021ecce0.vsidx
+UnitConversionApplication/.vs/UnitConversionApplication/FileContentIndex/63b8c6f3-bb4f-4dd7-8359-8aafdf9aa7e3.vsidx
+UnitConversionApplication/.vs/UnitConversionApplication/FileContentIndex/a917cfd7-9c33-4db1-991d-dbc638493156.vsidx
+UnitConversionApplication/.vs/UnitConversionApplication/FileContentIndex/ac269f90-f49b-4dd9-aa80-161a1efaa8ff.vsidx
+UnitConversionApplication/.vs/UnitConversionApplication/FileContentIndex/c4d24936-bae4-4a7d-947e-8df0c0c06030.vsidx
+UnitConversionApplication/.vs/UnitConversionApplication/v17/TestStore/0/000.testlog
+/UnitConversionApplication/UnitConversion.Test/obj

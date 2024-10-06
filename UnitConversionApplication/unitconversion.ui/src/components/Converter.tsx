@@ -49,7 +49,7 @@ function Converter({type} : Props) {
     header = 'Weight'
   }
   else if(type==3){
-    header = 'Temparaure'
+    header = 'Temperature'
   }
 
   const onFieldChange = (event: any) => {

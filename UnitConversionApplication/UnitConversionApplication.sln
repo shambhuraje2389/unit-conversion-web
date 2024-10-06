@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitConversion.API", "UnitConversion.API\UnitConversion.API.csproj", "{BC153A5B-9522-41A8-968A-582C0619063E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitConversion.API", "UnitConversion.API\UnitConversion.API.csproj", "{BC153A5B-9522-41A8-968A-582C0619063E}"
 EndProject
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "UnitConversion.UI", "UnitConversion.UI\UnitConversion.UI.esproj", "{1AF3B280-0DA3-49AE-BE37-D53C66A1279D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitConversion.Data", "UnitConversion.Data\UnitConversion.Data.csproj", "{B1FB2A77-5595-4059-AB91-DE710557196B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitConversion.Data", "UnitConversion.Data\UnitConversion.Data.csproj", "{B1FB2A77-5595-4059-AB91-DE710557196B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitConversion.Services", "UnitConversion.Services\UnitConversion.Services.csproj", "{C77C1AC4-93B5-4613-B058-F84CF0599BB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitConversion.Services", "UnitConversion.Services\UnitConversion.Services.csproj", "{C77C1AC4-93B5-4613-B058-F84CF0599BB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitConversion.Models", "UnitConversion.Models\UnitConversion.Models.csproj", "{A0C059C0-DAA8-4F14-ABB8-1D18C833708F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitConversion.Models", "UnitConversion.Models\UnitConversion.Models.csproj", "{A0C059C0-DAA8-4F14-ABB8-1D18C833708F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitConversion.Test", "UnitConversion.Test\UnitConversion.Test.csproj", "{62E04C8F-8902-4C5D-9AE0-1E4BD0A119D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +43,10 @@ Global
 		{A0C059C0-DAA8-4F14-ABB8-1D18C833708F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0C059C0-DAA8-4F14-ABB8-1D18C833708F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0C059C0-DAA8-4F14-ABB8-1D18C833708F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62E04C8F-8902-4C5D-9AE0-1E4BD0A119D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E04C8F-8902-4C5D-9AE0-1E4BD0A119D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E04C8F-8902-4C5D-9AE0-1E4BD0A119D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E04C8F-8902-4C5D-9AE0-1E4BD0A119D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
