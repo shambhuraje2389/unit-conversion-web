@@ -17,7 +17,7 @@ namespace UnitConversion.Models.Validation
         /// <returns></returns>
         public static bool IsValidate(this ConversionDTO conversion)
         {
-            if (conversion.Input.Length == 0 || conversion.SourceUnitId == 0 || conversion.TargetUnitId == 0 || conversion.Type == 0)
+            if (string.IsNullOrEmpty(conversion.Input) || conversion.Input.Length == 0 || conversion.SourceUnitId == 0 || conversion.TargetUnitId == 0 || conversion.Type == 0)
             {
                 return false;
             }
