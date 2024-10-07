@@ -5,7 +5,7 @@
 - User can convert length unit.
 - User can convert Height unit.
 - User can convert Temparature unit.
-- User can see the converison history.
+- User can see the conversion history.
 - User can get toaster notification for validation,conversion sucess, fetching histry logs.
 
 ## Techanologies
